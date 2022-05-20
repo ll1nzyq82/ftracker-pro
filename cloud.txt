@@ -1,0 +1,23 @@
+# American Amazon China (AWS China) #1
+||cloudfront.cn^
+||amazonaws.com.cn^
+||awsdns-cn-
+||amazonwebservices.com.cn^
+||amazonaws.cn^
+||aws-border.cn^
+||nwcdinfosec.cn^
+||cloudfront-cn.net^
+||awsapps.com.cn^
+||aws-icp-domain-manager.cn^
+||cloudfront-test.cn^
+||awsstatic.cn^
+||nwcdcloud.cn^
+||route53.cn^
+||nwcddns.cn^
+||a2z.org.cn^
+||awsapps.cn^
+||sagemaker.com.cn^
+||asfiovnxocqpcry.com.cn^
+||nwcdcloud.com.cn^
+||westclouddata.com^
+
