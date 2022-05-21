@@ -1,3 +1,5 @@
+! Description: All kinds of Chinese web services. But not including `Chinese Captcha Service`(captcha.txt).
+
 # American Amazon China (AWS China) #1
 ||cloudfront.cn^
 ||amazonaws.com.cn^
